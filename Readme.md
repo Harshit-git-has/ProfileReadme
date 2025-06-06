@@ -91,8 +91,6 @@
 
   <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="32" alt="OpenAI" title="OpenAI">
 
-
-
 </p>
 
 ---
@@ -145,4 +143,4 @@
 
 ---
 
-<p > “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs* </p>
+<h3> “Design is not just what it looks like and feels like. Design is how it works.” – <b>*Steve Jobs*</b></h3>
