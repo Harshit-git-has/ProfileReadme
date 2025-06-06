@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Front-End | Full Stack Developer | UI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=5BFFFF&background=000000&vCenter=true&width=450&height=60&lines=I+Love+Building+Attractive+UIs+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;JavaScript%2C+React+and+Tailwind+Specialist+%F0%9F%A4%A9;Always+learning+New+Tech+%F0%9F%98%8D;let's+Code+Something++Awesome+!+%F0%9F%9A%80" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BFFFF&background=918A8E00&width=430&lines=I+Love+Building+Attractive+UIs+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;JavaScript+React+and+Tailwind+Specialist+%F0%9F%A4%A9;Always+learning+New+Tech+%F0%9F%98%8D;let's+Code+Something++Awesome+!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
