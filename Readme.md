@@ -84,8 +84,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" title="MySQL" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" title="GitHub" />
-
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s.svg" height="32" alt="Tailwind" title=""TailWind>
+   
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="32" alt="tailWind" title="Tailwind">
 
   <img src="https://static-00.iconduck.com/assets.00/redux-icon-2048x1945-ahvhunxp.png" height="32" alt="Redux" title="Redux">
 
