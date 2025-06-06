@@ -85,6 +85,14 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" title="GitHub" />
 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="32" alt="Tailwind" title=""TailWind>
+
+  <img src="https://static-00.iconduck.com/assets.00/redux-icon-2048x1945-ahvhunxp.png" height="32" alt="Redux" title="Redux">
+
+  <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="32" alt="OpenAI" title="OpenAI">
+
+  
+
 </p>
 
 ---
