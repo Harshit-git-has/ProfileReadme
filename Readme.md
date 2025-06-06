@@ -143,4 +143,4 @@
 
 ---
 
-<h3> “Design is not just what it looks like and feels like. Design is how it works.” – <b>*Steve Jobs*</b></h3>
+<h3>“Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*</h3>
