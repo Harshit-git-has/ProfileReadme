@@ -20,13 +20,12 @@
 
 ### 🚀 My Favorite Projects
 
-| Project                | Description                           | Link                                                                                      |
-|------------------------|---------------------------------------|-------------------------------------------------------------------------------------------|
-| **Netflix-GPT**        | AI-powered Netflix UI clone           | [🔗 View Repo](https://github.com/Harshit-git-has/Netflix-gpt.git)                        |
-| **Swiggy Food Ordering App** | Swiggy-inspired food app        | [🔗 View Repo](https://github.com/Harshit-git-has/Food-Ordering_app.git)                  |
-| **MY-YOUTUBE** (WIP)   | YouTube clone in progress             | [🔗 View Repo](https://github.com/Harshit-git-has/MY-YouTube.git)                         |
+| 💻 **Project**                  | 📄 **Description**                                         | 🔗 **Link**                                                              |
+| ------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 🎬 **Netflix-GPT**              | AI-powered Netflix UI with OpenAI API and React            | [🔗 View Repo](https://github.com/Harshit-git-has/Netflix-gpt.git)       |
+| 🍔 **Swiggy Food Ordering App** | Responsive food delivery app with cart, filters & live API | [🔗 View Repo](https://github.com/Harshit-git-has/Food-Ordering_app.git) |
+| 📺 **MY-YOUTUBE** *(WIP)*       | YouTube clone built with React and RapidAPI                | [🔗 View Repo](https://github.com/Harshit-git-has/MY-YouTube.git)        |
 
----
 
 ### 🛠️ Tech Stack
 
