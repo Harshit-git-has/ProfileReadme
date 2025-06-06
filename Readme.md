@@ -20,12 +20,68 @@
 
 ### 🚀 My Favorite Projects
 
-| 💻 **Project**                  | 📄 **Description**                                         | 🔗 **Link**                                                              |
-| ------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 🎬 **Netflix-GPT**              | AI-powered Netflix UI with OpenAI API and React            | [🔗 View Repo](https://github.com/Harshit-git-has/Netflix-gpt.git)       |
-| 🍔 **Swiggy Food Ordering App** | Responsive food delivery app with cart, filters & live API | [🔗 View Repo](https://github.com/Harshit-git-has/Food-Ordering_app.git) |
-| 📺 **MY-YOUTUBE** *(WIP)*       | YouTube clone built with React and RapidAPI                | [🔗 View Repo](https://github.com/Harshit-git-has/MY-YouTube.git)        |
+## 🚀 Featured Projects
 
+> ✨ *Crafted with passion, focused on design & user experience*
+
+---
+
+### 🎬 Netflix-GPT
+> 🧠 An AI-powered Netflix UI clone built using **React**, **Tailwind CSS**, and **OpenAI GPT API**
+
+💡 **Highlights:**
+- 🎯 Search with GPT-powered responses
+- 🖼️ Movie posters & trailers from TMDB
+- ⚛️ Fast, responsive design
+
+📊 **Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
+
+🚀 **Status:** `✅ Complete`  
+🔗 [View Repository](https://github.com/Harshit-git-has/Netflix-gpt.git)
+
+---
+
+### 🍔 Swiggy Food Ordering App
+> 🍽️ A fully responsive food delivery app inspired by Swiggy UI, powered by **live APIs** & **React routing**
+
+💡 **Features:**
+- 📦 Add to cart functionality
+- 🔍 Menu filtering & search
+- 🌐 Live restaurant data
+
+📊 **Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+
+🚀 **Status:** `✅ Complete`  
+🔗 [View Repository](https://github.com/Harshit-git-has/Food-Ordering_app.git)
+
+---
+
+### 📺 MY-YOUTUBE *(WIP)*
+> 🔧 A YouTube clone in progress using **RapidAPI** and **React Router DOM**
+
+💡 **Working On:**
+- 📹 Video cards & channel layout
+- 🔍 Search & filter by category
+- 🎨 Modern UI with dark/light toggle
+
+📊 **Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge)
+![RapidAPI](https://img.shields.io/badge/-RapidAPI-000000?logo=rapidapi&logoColor=white&style=for-the-badge)
+
+🚀 **Status:** `🔧 In Progress`  
+🔗 [View Repository](https://github.com/Harshit-git-has/MY-YouTube.git)
+
+---
+
+
+
+---
 
 ### 🛠️ Tech Stack
 
