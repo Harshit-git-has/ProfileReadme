@@ -23,6 +23,8 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai)
 
+🚀 **Status:** `✅ Complete` 
+
 🔗 [View Repository](https://github.com/Harshit-git-has/Netflix-gpt.git)
 
 ---
@@ -39,6 +41,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
+🚀 **Status:** `✅ Complete` 
+
 🔗 [View Repository](https://github.com/Harshit-git-has/Food-Ordering_app.git)
 
 ---
@@ -53,6 +57,8 @@
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
 ![RapidAPI](https://img.shields.io/badge/-RapidAPI-000000?style=for-the-badge&logo=rapidapi)
+
+🚀 **Status:** `WIP🧑🏻‍💻` 
 
 🔗 [View Repository](https://github.com/Harshit-git-has/MY-YouTube.git)
 
@@ -99,7 +105,16 @@
 
 ---
 
-## 📬 Contact Me
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/harshit-katiyar-784a09225" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/harshitkatiyar517/profilecard/?igsh=MTQ5c25rdGx6dGF3dg==" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="32" alt="Instagram" />
+  </a>
+</p>
 
 - 📧 Email: [harshitkatiyar617@gmail.com](mailto:harshitkatiyar617@gmail.com)
 - 🌐 Portfolio: Coming soon...
@@ -112,4 +127,4 @@
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
+<p > “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs* </p>
