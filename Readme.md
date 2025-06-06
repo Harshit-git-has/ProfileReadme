@@ -112,12 +112,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/harshitkatiyar517/profilecard/?igsh=MTQ5c25rdGx6dGF3dg==" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="32" alt="Instagram" />
+    <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNTMzLW5lb24tMDAzLmpwZw.jpg" height="32" alt="Instagram" />
   </a>
 </p>
 
 - 📧 Email: [harshitkatiyar617@gmail.com](mailto:harshitkatiyar617@gmail.com)
-- 🌐 Portfolio: Coming soon...
+- 🌐 Portfolio: Coming soon...🧑🏻‍💻🧑🏻‍💻
 
 ---
 
