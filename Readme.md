@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Katiyar</h1>
 <h3 align="center">🚀 Front-End | Full Stack Developer | UI Enthusiast</h3>
 
-<p align="centre">
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B9FF7&background=9D949600&width=435&lines=I+Love+Building+Attractive+UIs+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;JavaScript%2C+React+and+Tailwind+Specialist+%F0%9F%A4%A9;Always+learning+New+Tech+%F0%9F%98%8D;let's+Code+Something++Awesome+!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
